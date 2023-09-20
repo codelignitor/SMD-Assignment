@@ -1,2 +1,2 @@
 # SMD-Assignment
-this is for SMD course assignments
+This Repository is for Software Mobile Devices course assignments.
